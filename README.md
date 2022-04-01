@@ -1,7 +1,7 @@
 Gridify
 =======
 
-This JOSM plugin gives allows you to generate a grid of ways (either as blocks or as lines) from any four nodes, or way of four nodes. This is particularly useful for drawing repeating blocks such as [parking spaces](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dparking_space):
+This JOSM plugin allows you to generate a grid of ways (either as blocks or as lines) from any four nodes, or way of four nodes. This is particularly useful for drawing repeating blocks such as [parking spaces](https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dparking_space):
 
 ![Example of use](doc/parking.png)
 
